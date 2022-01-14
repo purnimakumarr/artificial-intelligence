@@ -1,6 +1,6 @@
 # CS HONS
 
-## Year III Semester VI PAPER - ARTIFICIAL INTELLIGENCE
+## Year III Semester VI Paper - ARTIFICIAL INTELLIGENCE
 
 This is my code for the core paper Artificial Intelligence(BHCS13) I completed during my BSc. (Hons.) Computer Science undergraduate degree from Delhi University in batch 2019-2022.
 
