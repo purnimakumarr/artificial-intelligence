@@ -15,5 +15,5 @@ factorial(N, F):- N > 0,
 % iteration 2 -> N = 4, N1 = 3, factorial(3, F1), F = F1*4
 % iteration 3 -> N = 3, N1 = 2, factorial(2, F1), F = F1*3
 % iteration 4 -> N = 2, N1 = 1, factorial(1, F1), F = F1*2
-% iteration 5 -> N = 1, N1 = 0, factorial(1, F1), F = F1*1
+% iteration 5 -> N = 1, N1 = 0, factorial(0, F1), F = F1*1
 % N = 0, F1 = 1
